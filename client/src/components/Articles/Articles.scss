@@ -1,0 +1,15 @@
+.article {
+    width: 32.333333%;
+    margin: 0 0.5% 10px;
+
+    &__date {
+        color: #a8a8a8;
+    }
+    &__author {
+        color: #a8a8a8;
+
+        p {
+            margin: 0;
+        }
+    }
+}

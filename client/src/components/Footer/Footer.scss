@@ -1,0 +1,18 @@
+.footer {
+    padding: 15px 0;
+    width: 100%;
+
+    &__icon {
+        width: 26px;
+        height: 26px;
+        fill: #007bff;
+    }
+}
+
+@media (min-width: 1440px) {
+    .footer {
+      position: absolute;
+      width: 100%;
+      bottom: 0;
+    }
+  }
